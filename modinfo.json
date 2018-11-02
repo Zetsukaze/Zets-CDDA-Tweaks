@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "zet_tweaks",
+    "name": "Zetsukaze's CDDA Tweaks!",
+    "authors": [ "Zetsukaze" ],
+    "maintainers": [ "Zetsukaze" ],
+    "description": "Tweaks for inceased fun!",
+    "category": "rebalance",
+    "dependencies": [ "dda", "blazemod" ]
+  }
+]

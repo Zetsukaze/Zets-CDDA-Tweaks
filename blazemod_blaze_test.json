@@ -1,0 +1,10 @@
+[
+  {
+    "id": "space_anomaly",
+    "copy-from": "space_anomaly",
+    "type": "vehicle_part",
+    "name": "cargo dimension",
+    "size": 40000,
+    "extend": { "flags": [ "LOCKABLE_CARGO" ]}
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "minifreezer",
+    "copy-from": "minifreezer",
+    "type": "vehicle_part",
+    "name": "minifreezer",
+    "size": 1400
+  }
+]
