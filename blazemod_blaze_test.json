@@ -5,6 +5,6 @@
     "type": "vehicle_part",
     "name": "cargo dimension",
     "size": 40000,
-    "extend": { "flags": [ "LOCKABLE_CARGO" ]}
+    "extend": { "flags": [ "LOCKABLE_CARGO" ] }
   }
 ]
