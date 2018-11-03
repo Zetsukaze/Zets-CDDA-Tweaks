@@ -1,0 +1,16 @@
+[
+  {
+    "id": "internal_tank_xl",
+    "copy-from": "internal_tank_xl",
+    "type": "vehicle_part",
+    "name": "internal tank (100L)",
+    "looks_like": "external_tank"
+  },
+  {
+    "id": "internal_tank_xxl",
+    "copy-from": "internal_tank_xxl",
+    "type": "vehicle_part",
+    "name": "internal tank (200L)",
+    "looks_like": "external_tank"
+  }
+]
