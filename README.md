@@ -9,6 +9,7 @@ Minor tweaks to make the game more to my liking, some of the changes are OP, but
   * [Vehicle Parts](#vehicle-parts-1)
 * [Cataclysm++](#cataclysm)
   * [Armor](#armor)
+  * [Vehicle Parts](#vehicle-parts-2)
 
 ## Base Game
 ### Tool Armor
@@ -16,12 +17,19 @@ Minor tweaks to make the game more to my liking, some of the changes are OP, but
 This is a survivor's utility belt, why wouldn't a survivor add belt loops to keep tools, as well as larger knives?
 * Added the ability to holster tools
 * Added the ability to keep up to 3 items
-* Changed the storage volume to 0L to 3L
+* Changed the storage volume `Min: 0L - Max: 3L`
 
 ### Vehicle Parts
 ##### Minifreezer
 Yeah yeah, mini I know, but come on, I have stacks of meat I need to freeze!
-* Increased the storage volume to 350L
+* Increased the storage volume to `350L` (Same as DC Fridge from Cata++)
+* Added the `LOCKABLE_CARGO` flag
+
+##### Minifridge
+* Added the `LOCKABLE_CARGO` flag
+
+##### Internal Boom Crane
+* Added the `FOLDABLE` flag
 
 ## Blazemod
 ### Vehicle Parts
@@ -34,8 +42,15 @@ I added the ability to install cargo lock sets, because who wants those grubby N
 ### Armor
 ##### Survivor's Archer Backpack
 A backpack and a quiver all rolled into one! Of course I want to carry more loot :smirk:
-* Increased the storage volume to 25L
+* Increased the storage volume to `25L`
 * Decreased the warmth to 0. Who wants a sweaty back?
 
 ##### Survivor's Scout Suit & Survivor's Armored Scout Suit
 * Decreased the warmth to 25. Way too much warmth on these things.
+
+### Vehicle Parts
+##### DC Fridge
+* Added the `LOCKABLE_CARGO` flag
+
+##### Survivor's Station
+* Added the `LOCKABLE_CARGO` flag
