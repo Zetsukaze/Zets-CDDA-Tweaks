@@ -69,4 +69,6 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 ##### 100L & 200L Internal Tanks
 * Added the `looks_like` flag to make it use the same tile as the external tanks
 
-##
+# My CDDA Mods
+[Zetsukaze's Hair Extensions](https://github.com/Zetsukaze/Zets-Hair-Extensions)
+[Zetsukaze's CDDA Tweaks](https://github.com/Zetsukaze/Zets-CDDA-Tweaks)
