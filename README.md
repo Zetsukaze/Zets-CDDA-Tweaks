@@ -36,8 +36,9 @@ Yeah yeah, mini I know, but come on, I have stacks of meat I need to freeze!
 ## Blazemod
 ### Vehicle Parts
 ##### Cargo dimensions!!!
-I added the ability to install cargo lock sets, because who wants those grubby NPC paws on your sweet loot?
+I added the ability to install cargo lock sets, because who wants those grubby NPC paws on your sweet loot? Also, fold it up and carry around your own pocket dimension!
 * Added the `LOCKABLE_CARGO` flag
+* Added the `FOLDABLE` flag
 * Temporarily changed the storage volume to 10,000L, will remove once [this](https://github.com/CleverRaven/Cataclysm-DDA/pull/26493) is approved.
 
 ## Cataclysm++

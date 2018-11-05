@@ -5,6 +5,7 @@
     "type": "vehicle_part",
     "name": "cargo dimension",
     "size": 40000,
-    "extend": { "flags": [ "LOCKABLE_CARGO" ] }
+    "folded_volume": "50L",
+    "extend": { "flags": [ "FOLDABLE", "LOCKABLE_CARGO" ] }
   }
 ]
