@@ -1,6 +1,12 @@
 # Zetsukaze's CDDA Tweaks!
 Minor tweaks to make the game more to my liking, some of the changes are OP, but this is a play your way game!
 
+# Usage Guide
+1. Remove the dependency from [modinfo.json](modinfo.json)
+2. Remove the files of the mods that you don't play with
+
+For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then remove `Cata++` [modinfo.json](modinfo.json) as well as `noctsCataMod` JSON files. Easy, right?
+
 # List of Changes
 * [Base Game](#base-game)
   * [Tool Armor](#tool-armor)
