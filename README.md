@@ -2,10 +2,12 @@
 Minor tweaks to make the game more to my liking, some of the changes are OP, but this is a play your way game!
 
 # Usage Guide
-1. Remove the dependency from [modinfo.json](modinfo.json)
-2. Remove the files of the mods that you don't play with
+1. Unzip the downloaded file and copy the mod folder into `<CDDAInstallationFolder>\data\mods`
+2. For mods that you do not play with, remove the dependency from [modinfo.json](modinfo.json)
+3. Remove the related files of the disabled mods
+4. Enable in CDDA `Zetsukaze's CDDA Tweaks` and enjoy the variety of hairs, eyes and skins!
 
-For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then remove `Cata++` from [modinfo.json](modinfo.json) and the `cata++` JSON files. Easy, right?
+For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then remove `Cata++` from [modinfo.json](modinfo.json) and the `cata++` JSON files.
 
 # List of Changes
 * [Base Game](#base-game)
