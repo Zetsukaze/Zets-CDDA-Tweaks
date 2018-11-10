@@ -4,7 +4,6 @@
     "copy-from": "space_anomaly",
     "type": "vehicle_part",
     "name": "cargo dimension",
-    "size": 40000,
     "folded_volume": "50L",
     "extend": { "flags": [ "FOLDABLE", "LOCKABLE_CARGO" ] }
   }
