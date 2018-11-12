@@ -19,6 +19,13 @@
     "extend": { "flags": [ "SKINTIGHT" ] }
   },
   {
+    "id": "nano_container",
+    "copy-from": "nano_container",
+    "type": "CONTAINER",
+    "name": "nanotech liquid compressor",
+    "delete": { "flags": [ "WATERTIGHT" ] }
+  },
+  {
     "id": "nanosuit",
     "copy-from": "nanosuit",
     "type": "ARMOR",
