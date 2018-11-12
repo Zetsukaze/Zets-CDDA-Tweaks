@@ -30,6 +30,7 @@
     "copy-from": "nanosuit",
     "type": "ARMOR",
     "name": "nanosuit",
+    "looks_like": "rm13_armor_on",
     "extend": { "flags": [ "OUTER" ] },
     "delete": { "flags": [ "SKINTIGHT" ] }
   },
@@ -38,6 +39,7 @@
     "copy-from": "nanosuit_heated",
     "type": "ARMOR",
     "name": "nanosuit (heat+)",
+    "looks_like": "rm13_armor_on",
     "extend": { "flags": [ "OUTER" ] },
     "delete": { "flags": [ "SKINTIGHT" ] }
   },
@@ -46,6 +48,7 @@
     "copy-from": "nanosuit_heated_2",
     "type": "ARMOR",
     "name": "nanosuit (heat++)",
+    "looks_like": "rm13_armor_on",
     "extend": { "flags": [ "OUTER" ] },
     "delete": { "flags": [ "SKINTIGHT" ] }
   },
@@ -54,6 +57,7 @@
     "copy-from": "nanosuit_heated_3",
     "type": "ARMOR",
     "name": "nanosuit (heat+++)",
+    "looks_like": "rm13_armor_on",
     "extend": { "flags": [ "OUTER" ] },
     "delete": { "flags": [ "SKINTIGHT" ] }
   },
@@ -62,6 +66,7 @@
     "copy-from": "nanosuit_heated_4",
     "type": "ARMOR",
     "name": "nanosuit (heat++++)",
+    "looks_like": "rm13_armor_on",
     "extend": { "flags": [ "OUTER" ] },
     "delete": { "flags": [ "SKINTIGHT" ] }
   },
@@ -70,6 +75,7 @@
     "copy-from": "nanosuit_heated_5",
     "type": "ARMOR",
     "name": "nanosuit (heat+++++)",
+    "looks_like": "rm13_armor_on",
     "extend": { "flags": [ "OUTER" ] },
     "delete": { "flags": [ "SKINTIGHT" ] }
   }
