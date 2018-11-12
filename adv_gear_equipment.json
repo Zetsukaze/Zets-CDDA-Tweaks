@@ -28,7 +28,7 @@
   },
   {
     "id": "nanosuit",
-    "copy-from": "nano_storage",
+    "copy-from": "nanosuit",
     "type": "ARMOR",
     "name": "nanosuit",
     "extend": { "flags": [ "OUTER" ] },
