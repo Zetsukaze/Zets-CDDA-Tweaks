@@ -23,7 +23,9 @@
     "copy-from": "nano_container",
     "type": "CONTAINER",
     "name": "nanotech liquid compressor",
-    "delete": { "flags": [ "WATERTIGHT" ] }
+    "use_action": { "type": "bandolier", "capacity": 100, "ammo": [ "arrow", "bolt" ], "draw_cost": 3 },
+    "extend": { "flags": [ "QUIVER_100" ] },
+    "delete": { "flags": [ "RIGID", "WATERTIGHT" ] }
   },
   {
     "id": "nanosuit",
