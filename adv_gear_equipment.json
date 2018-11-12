@@ -1,0 +1,37 @@
+[
+  {
+    "id": "nano_storage",
+    "copy-from": "nano_storage",
+    "type": "ARMOR",
+    "name": "nanotech 'mini-shoggoth' storage",
+    "use_action": {
+      "type": "holster",
+      "holster_prompt": "Sheath weapon",
+      "holster_msg": "You sheath your %s",
+      "min_volume": 0,
+      "max_volume": "25L",
+      "draw_cost": 50,
+      "multi": 4,
+      "skills": [ "archery", "launcher", "pistol", "rifle", "shotgun", "smg" ],
+      "flags": [ "SHEATH_KNIFE", "SHEATH_SPEAR", "SHEATH_SWORD" ],
+      "//": "Allows all blades to be sheathed."
+    },
+    "extend": { "flags": [ "SKINTIGHT" ] }
+  },
+  {
+    "id": "nano_container",
+    "copy-from": "nano_container",
+    "type": "CONTAINER",
+    "name": "nanotech liquid compressor",
+    "use_action": { "type": "bandolier", "capacity": 100, "ammo": [ "arrow", "bolt" ], "draw_cost": 3 },
+    "extend": { "flags": [ "QUIVER_100" ] }
+  },
+  {
+    "id": "nanosuit",
+    "copy-from": "nano_storage",
+    "type": "ARMOR",
+    "name": "nanosuit",
+    "extend": { "flags": [ "OUTER" ] },
+    "delete": { "flags": [ "SKINTIGHT" ] }
+  }
+]

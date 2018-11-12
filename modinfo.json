@@ -7,6 +7,6 @@
     "maintainers": [ "Zetsukaze" ],
     "description": "Tweaks for inceased fun!",
     "category": "rebalance",
-    "dependencies": [ "dda", "blazemod", "Cata++", "shardstuff" ]
+    "dependencies": [ "dda", "blazemod", "Cata++", "shardstuff", "adv_gear" ]
   }
 ]

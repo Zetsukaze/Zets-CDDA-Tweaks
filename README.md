@@ -20,6 +20,8 @@ For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-d
   * [Vehicle Parts](#vehicle-parts-2)
 * [Shardstuff](#shardstuff)
   * [Vehicle Parts](#vehicle-parts-3)
+* [Advanced Gear](#advanced-gear)
+  * [Equipment](#equipment)
 
 ## Base Game
 ### Tool Armor
@@ -69,6 +71,18 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 ### Vehicle Parts
 ##### 100L & 200L Internal Tanks
 * Added the `looks_like` flag to make it use the same tile as the external tanks
+
+## Advanced Gear
+### Equipment
+##### nanotech 'mini-shoggoth' storage
+* Added a holster action because it has pseudopods to help you hold things!
+* Changed the layering to `SKINTIGHT` as I imagine it supporting your body like an exoskeleton, explaining why it allows you to carry more weight
+
+##### nanotech liquid compressor
+* Added a quiver as it was the last wearable that had no use action =P
+
+##### nanosuit
+* Changed the layering to `OUTER`, kind of like an Iron Man suit!
 
 # My CDDA Mods
 [Zetsukaze's Hair Extensions](https://github.com/Zetsukaze/Zets-Hair-Extensions)
