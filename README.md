@@ -75,11 +75,11 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 ## Advanced Gear
 ### Equipment
 ##### nanotech 'mini-shoggoth' storage
-* Added a holster action because it has pseudopods to help you hold things!
+* Added a holster action because it has pseudopods to help you hold things!:octopus:
 * Changed the layering to `SKINTIGHT` as I imagine it supporting your body like an exoskeleton, explaining why it allows you to carry more weight
 
 ##### nanotech liquid compressor
-* Added a quiver as it was the last wearable that had no use action =P
+* Added a quiver as it was the last wearable that had no use action :man_shrugging:
 
 ##### nanosuit
 * Changed the layering to `OUTER`, kind of like an Iron Man suit!
