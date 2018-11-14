@@ -6,5 +6,19 @@
     "name": "cargo dimension",
     "folded_volume": "50L",
     "extend": { "flags": [ "FOLDABLE", "LOCKABLE_CARGO" ] }
+  },
+  {
+    "id": "space_anomaly_cold",
+    "copy-from": "space_anomaly",
+    "type": "vehicle_part",
+    "name": "boreal dimension",
+    "insulation": 2
+  },
+  {
+    "id": "space_anomaly_freeze",
+    "copy-from": "space_anomaly",
+    "type": "vehicle_part",
+    "name": "gelidus dimension",
+    "insulation": 4
   }
 ]

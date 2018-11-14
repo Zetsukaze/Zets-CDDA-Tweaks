@@ -48,6 +48,12 @@ I added the ability to install cargo lock sets, because who wants those grubby N
 * Added the `LOCKABLE_CARGO` flag
 * Added the `FOLDABLE` flag
 
+##### Boreal dimension
+Hoho, a fridge cargo dimension.
+
+##### Gelidus dimension
+Aaaaand a freezer one! :snowman:
+
 ## Cataclysm++
 ### Armor
 ##### Survivor's Archer Backpack
@@ -67,14 +73,14 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 
 ## Advanced Gear
 ### Equipment
-##### nanotech 'mini-shoggoth' storage
+##### Nanotech 'mini-shoggoth' storage
 * Added a holster action because it has pseudopods to help you hold things! :octopus:
 * Changed the layering to `SKINTIGHT` as I imagine it supporting your body like an exoskeleton, explaining why it allows you to carry more weight
 
-##### nanotech liquid compressor
+##### Nanotech liquid compressor
 * Removed unnecessary flags `RIGID` and `WATERTIGHT` (Removes it from `a`ctivate menu)
 
-##### nanosuit
+##### Nanosuit
 * Changed the layering to `OUTER`, kind of like an Iron Man suit!
 
 # My CDDA Mods
