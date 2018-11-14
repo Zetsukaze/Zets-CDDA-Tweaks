@@ -18,8 +18,6 @@ For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-d
 * [Cataclysm++](#cataclysm)
   * [Armor](#armor)
   * [Vehicle Parts](#vehicle-parts-2)
-* [Shardstuff](#shardstuff)
-  * [Vehicle Parts](#vehicle-parts-3)
 * [Advanced Gear](#advanced-gear)
   * [Equipment](#equipment)
 
@@ -66,11 +64,6 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 
 ##### Survivor's Station
 * Added the `LOCKABLE_CARGO` flag
-
-## Shardstuff
-### Vehicle Parts
-##### 100L & 200L Internal Tanks
-* Added the `looks_like` flag to make it use the same tile as the external tanks
 
 ## Advanced Gear
 ### Equipment
