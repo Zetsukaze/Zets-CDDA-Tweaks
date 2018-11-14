@@ -12,13 +12,17 @@
     "copy-from": "space_anomaly",
     "type": "vehicle_part",
     "name": "boreal dimension",
-    "insulation": 2
+    "epower": -30,
+    "insulation": 2,
+    "extend": { "flags": [ "FRIDGE" ] }
   },
   {
     "id": "space_anomaly_freeze",
     "copy-from": "space_anomaly",
     "type": "vehicle_part",
     "name": "gelidus dimension",
-    "insulation": 4
+    "epower": -45,
+    "insulation": 4,
+    "extend": { "flags": [ "FREEZER" ] }
   }
 ]
