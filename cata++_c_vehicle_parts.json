@@ -1,7 +1,7 @@
 [
   {
-    "id": "dc_fridge",
-    "copy-from": "dc_fridge",
+    "id": "minifridge",
+    "copy-from": "minifridge",
     "type": "vehicle_part",
     "name": "DC fridge",
     "extend": { "flags": [ "LOCKABLE_CARGO" ] }
