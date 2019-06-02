@@ -22,6 +22,11 @@ For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-d
   * [Equipment](#equipment)
 
 ## Base Game
+### Armor
+##### Ankle Sheathe
+Annoyed that really small items can't be kept in this sheathe? Now it can!
+* Minimum volume 0
+
 ### Tool Armor
 ##### Survivor Utility Belt
 This is a survivor's utility belt, why wouldn't a survivor add belt loops to keep tools, as well as larger knives?
