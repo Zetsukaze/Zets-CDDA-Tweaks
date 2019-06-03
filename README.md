@@ -85,6 +85,9 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 ##### Nanotech liquid compressor
 * Removed unnecessary flags `RIGID` and `WATERTIGHT` (Removes it from `a`ctivate menu)
 
+##### Small nanotech liquid compressor
+* Big isn't always better!
+
 ##### Nanosuit
 * Changed the layering to `OUTER`, kind of like an Iron Man suit!
 
