@@ -1,7 +1,7 @@
 [
   {
     "type": "recipe",
-    "result": "nano_container",
+    "result": "sm_nano_container",
     "category": "CC_NANO",
     "subcategory": "CSC_NANO_WEAR",
     "skill_used": "fabrication",
