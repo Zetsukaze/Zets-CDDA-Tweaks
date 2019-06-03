@@ -13,6 +13,7 @@ For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-d
 * [Base Game](#base-game)
   * [Tool Armor](#tool-armor)
   * [Vehicle Parts](#vehicle-parts)
+  * [Comestibles](#comestibles)
 * [Blazemod aka Vehicle Additions Pack](#blazemod)
   * [Vehicle Parts](#vehicle-parts-1)
 * [Cataclysm++](#cataclysm)
