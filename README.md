@@ -46,6 +46,10 @@ Yeah yeah, mini I know, but come on, I have stacks of meat I need to freeze!
 ##### Internal Boom Crane
 * Added the `FOLDABLE` flag
 
+### Comestibles
+##### Prepper pemmican
+* No more rot!
+
 ## Blazemod
 ### Vehicle Parts
 ##### Cargo dimensions!!!
