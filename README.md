@@ -21,6 +21,7 @@ For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-d
   * [Vehicle Parts](#vehicle-parts-2)
 * [Advanced Gear](#advanced-gear)
   * [Equipment](#equipment)
+  * [Vehicle Parts](#vehicle-parts-3)
 
 ## Base Game
 ### Armor
@@ -95,6 +96,10 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 
 ##### Nanosuit
 * Changed the layering to `OUTER`, kind of like an Iron Man suit!
+
+### Vehicle Parts
+##### Nanotech door
+* Made it to look like a heavy duty hatch to match the rest of the vehicle
 
 # My CDDA Mods
 [Zetsukaze's Hair Extensions](https://github.com/Zetsukaze/Zets-Hair-Extensions)

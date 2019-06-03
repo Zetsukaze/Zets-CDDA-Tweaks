@@ -1,0 +1,9 @@
+[
+  {
+    "id": "nano_door",
+    "copy-from": "nano_door",
+    "type": "vehicle_part",
+    "name": "nanotech door",
+    "looks_like": "hdhatch"
+  }
+]
