@@ -66,7 +66,6 @@
     "time": "20 m",
     "batch_time_factors": [ 67, 5 ],
     "book_learn": [ [ "cookbook_human", 4 ] ],
-    "qualities": [ { "id": "CUT", "level": 1 } ],
     "tools": [ [ [ "dehydrator", 25 ], [ "char_smoker", 25 ] ], [ [ "surface_heat", 5, "LIST" ] ] ],
     "components": [ [ [ "human_flesh", 1 ] ] ]
   },
@@ -95,7 +94,6 @@
     "time": "20 m",
     "batch_time_factors": [ 67, 5 ],
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
     "tools": [ [ [ "dehydrator", 25 ], [ "char_smoker", 25 ] ], [ [ "surface_heat", 5, "LIST" ] ] ],
     "components": [ [ [ "meat_tainted", 1 ] ] ]
   },
@@ -165,7 +163,6 @@
     "time": "20 m",
     "batch_time_factors": [ 67, 5 ],
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
     "tools": [ [ [ "dehydrator", 25 ], [ "char_smoker", 25 ] ], [ [ "surface_heat", 5, "LIST" ] ] ],
     "components": [ [ [ "veggy_tainted", 1 ] ] ]
   },
