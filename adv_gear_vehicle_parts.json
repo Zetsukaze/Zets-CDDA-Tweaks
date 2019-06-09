@@ -1,0 +1,9 @@
+[
+  {
+    "id": "nt_crafter",
+    "copy-from": "nt_crafter",
+    "type": "vehicle_part",
+    "name": "nanotech crafting node",
+    "looks_like": "surv_station_t"
+  }
+]

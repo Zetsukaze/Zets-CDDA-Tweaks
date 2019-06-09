@@ -21,6 +21,7 @@ For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-d
   * [Vehicle Parts](#vehicle-parts-2)
 * [Advanced Gear](#advanced-gear)
   * [Equipment](#equipment)
+  * [Vehicle Parts](#vehicle-parts-3)
 
 ## Base Game
 ### Armor
@@ -95,6 +96,10 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 
 ##### Nanosuit
 * Changed the layering to `OUTER`, kind of like an Iron Man suit!
+
+### Vehicle Parts
+##### Nanotech crafting node
+* Changed the look to match the survivor's station added by Cata++ as there isn't a tile yet :anguished:
 
 # My CDDA Mods
 [Zetsukaze's Hair Extensions](https://github.com/Zetsukaze/Zets-Hair-Extensions)
