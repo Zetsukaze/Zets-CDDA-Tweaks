@@ -52,9 +52,6 @@ Yeah yeah, mini I know, but come on, I have stacks of meat I need to freeze!
 ##### Prepper pemmican
 * No more rot!
 
-##### Dry recipes
-* Added dry recipes for frozen ingredients.
-
 ## Blazemod
 ### Vehicle Parts
 ##### Cargo dimensions!!!
