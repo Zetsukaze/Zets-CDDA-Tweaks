@@ -4,6 +4,14 @@
     "copy-from": "nt_crafter",
     "type": "vehicle_part",
     "name": "nanotech crafting node",
+    "extend": { "flags": [ "LOCKABLE_CARGO" ] },
     "looks_like": "surv_station_t"
+  },
+  {
+    "id": "nt_storage",
+    "copy-from": "nt_storage",
+    "type": "vehicle_part",
+    "name": "nanotech 'shoggoth' storage node",
+    "extend": { "flags": [ "LOCKABLE_CARGO" ] }
   }
 ]

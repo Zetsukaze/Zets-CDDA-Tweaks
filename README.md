@@ -98,7 +98,11 @@ A backpack and a quiver all rolled into one! Of course I want to carry more loot
 * Changed the layering to `OUTER`, kind of like an Iron Man suit!
 
 ### Vehicle Parts
+##### Nanotech 'shoggoth' storage node
+* Added the `LOCKABLE_CARGO` flag
+
 ##### Nanotech crafting node
+* Added the `LOCKABLE_CARGO` flag
 * Changed the look to match the survivor's station added by Cata++ as there isn't a tile yet :anguished:
 
 # My CDDA Mods
